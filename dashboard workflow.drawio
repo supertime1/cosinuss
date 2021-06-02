@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-23T17:00:53.638Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="re3zMc1l93BPwm4tokRT" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-02T18:32:14.580Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="-5ahPWJ5Pr15nm4USvrl" version="14.7.0" type="github" pages="2">
   <diagram id="KIOIq3B1tjwC8RdAzctb" name="Page-1">
-    <mxGraphModel dx="1006" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1184" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,7 +94,7 @@
         <mxCell id="7mfvnDVQpdmoXQ0QLcxs-62" value="Matlab process" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="247" y="190" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7mfvnDVQpdmoXQ0QLcxs-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7mfvnDVQpdmoXQ0QLcxs-72" edge="1" target="7mfvnDVQpdmoXQ0QLcxs-103">
+        <mxCell id="7mfvnDVQpdmoXQ0QLcxs-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=classic;endFill=1;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7mfvnDVQpdmoXQ0QLcxs-72" target="7mfvnDVQpdmoXQ0QLcxs-103" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="550" y="680" as="targetPoint" />
           </mxGeometry>
@@ -173,6 +173,130 @@
         </mxCell>
         <mxCell id="7mfvnDVQpdmoXQ0QLcxs-119" value="&lt;h1&gt;Dashboard workflow&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="640" y="180" width="360" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="I68KLb2oF1zH_mTcRmXu" name="Page-2">
+    <mxGraphModel dx="1006" dy="-222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-0" />
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-1" parent="CCB1oD5Kg9g0gcerTAnL-0" />
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-2" value="&lt;h1&gt;Functions guidance&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;align=center;" vertex="1" parent="CCB1oD5Kg9g0gcerTAnL-1">
+          <mxGeometry y="860" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-3" value="" style="group" vertex="1" connectable="0" parent="CCB1oD5Kg9g0gcerTAnL-1">
+          <mxGeometry y="910" width="1100" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;fillOpacity=20;labelPosition=left;verticalLabelPosition=top;verticalAlign=bottom;arcSize=3;strokeColor=none;fillColor=#FFB570;" vertex="1" parent="CCB1oD5Kg9g0gcerTAnL-3">
+          <mxGeometry x="13" y="290" width="807" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;fillOpacity=20;labelPosition=left;verticalLabelPosition=top;verticalAlign=bottom;arcSize=3;strokeColor=none;fillColor=#D5E8D4;" vertex="1" parent="CCB1oD5Kg9g0gcerTAnL-3">
+          <mxGeometry x="3" width="1097" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;fillOpacity=20;labelPosition=left;verticalLabelPosition=top;verticalAlign=bottom;arcSize=3;strokeColor=none;fillColor=#A680B8;" vertex="1" parent="CCB1oD5Kg9g0gcerTAnL-3">
+          <mxGeometry y="590" width="1090" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-7" value="generate_postprocess_files.py" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="CCB1oD5Kg9g0gcerTAnL-3">
+          <mxGeometry x="18" y="30" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-8" value="revise_sonova_hr_table.py" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="CCB1oD5Kg9g0gcerTAnL-3">
+          <mxGeometry x="240.5" y="170" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-9" value="generate_mape_da_table_sonova.py" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="CCB1oD5Kg9g0gcerTAnL-3">
+          <mxGeometry x="613" y="30" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-10" value="generate_sql_table_sonova.py" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="CCB1oD5Kg9g0gcerTAnL-3">
+          <mxGeometry x="263" y="330" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-11" value="generate_joint_table.py" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="CCB1oD5Kg9g0gcerTAnL-3">
+          <mxGeometry x="873" y="260" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CCB1oD5Kg9g0gcerTAnL-3" source="CCB1oD5Kg9g0gcerTAnL-13" target="CCB1oD5Kg9g0gcerTAnL-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-13" value="Files provided by Stafa team" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="CCB1oD5Kg9g0gcerTAnL-3">
+          <mxGeometry x="58" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CCB1oD5Kg9g0gcerTAnL-3" source="CCB1oD5Kg9g0gcerTAnL-15" target="CCB1oD5Kg9g0gcerTAnL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-15" value="Files provided by Stafa team &lt;br&gt;+&lt;br&gt;post-processed files" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="CCB1oD5Kg9g0gcerTAnL-3">
+          <mxGeometry x="268" y="10" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CCB1oD5Kg9g0gcerTAnL-3" source="CCB1oD5Kg9g0gcerTAnL-7" target="CCB1oD5Kg9g0gcerTAnL-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CCB1oD5Kg9g0gcerTAnL-3" source="CCB1oD5Kg9g0gcerTAnL-18" target="CCB1oD5Kg9g0gcerTAnL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-18" value="table/&lt;br&gt;sonova_hr_table.csv" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="CCB1oD5Kg9g0gcerTAnL-3">
+          <mxGeometry x="443" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CCB1oD5Kg9g0gcerTAnL-3" source="CCB1oD5Kg9g0gcerTAnL-8" target="CCB1oD5Kg9g0gcerTAnL-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="CCB1oD5Kg9g0gcerTAnL-3" source="CCB1oD5Kg9g0gcerTAnL-21" target="CCB1oD5Kg9g0gcerTAnL-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="723" y="260" />
+              <mxPoint x="843" y="260" />
+              <mxPoint x="843" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-21" value="table/sonova_mape_da_table.csv&lt;br&gt;table/sonova_mape_da_table_group.csv" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="CCB1oD5Kg9g0gcerTAnL-3">
+          <mxGeometry x="598" y="160" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CCB1oD5Kg9g0gcerTAnL-3" source="CCB1oD5Kg9g0gcerTAnL-9" target="CCB1oD5Kg9g0gcerTAnL-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="CCB1oD5Kg9g0gcerTAnL-3" source="CCB1oD5Kg9g0gcerTAnL-24" target="CCB1oD5Kg9g0gcerTAnL-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-24" value="table/sonova_sql_table.csv" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="CCB1oD5Kg9g0gcerTAnL-3">
+          <mxGeometry x="613" y="320" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CCB1oD5Kg9g0gcerTAnL-3" source="CCB1oD5Kg9g0gcerTAnL-10" target="CCB1oD5Kg9g0gcerTAnL-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="CCB1oD5Kg9g0gcerTAnL-3" source="CCB1oD5Kg9g0gcerTAnL-30" target="CCB1oD5Kg9g0gcerTAnL-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="178" y="360" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-27" value="table/sonova_joint_table.csv&lt;br&gt;table/sonova_joint_table_group.csv" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="CCB1oD5Kg9g0gcerTAnL-3">
+          <mxGeometry x="823" y="450" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CCB1oD5Kg9g0gcerTAnL-3" source="CCB1oD5Kg9g0gcerTAnL-11" target="CCB1oD5Kg9g0gcerTAnL-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-29" value="app.py" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="CCB1oD5Kg9g0gcerTAnL-3">
+          <mxGeometry x="342" y="635" width="138" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-30" value="&lt;span&gt;IBM_Clinical/MS SQL&lt;/span&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="CCB1oD5Kg9g0gcerTAnL-3">
+          <mxGeometry x="58" y="305" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-31" value="&lt;font&gt;https://git.sonova.com/57lzhang/cosinuss&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;fontColor=#FF3333;" vertex="1" parent="CCB1oD5Kg9g0gcerTAnL-3">
+          <mxGeometry x="910" y="100" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-32" value="&lt;font&gt;https://git.sonova.com/57lzhang/floyer_dashboard&lt;br&gt;&lt;br&gt;(use your sonova email address and password: FloyerSSV123! if you were asked to enter)&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;fontColor=#FF3333;" vertex="1" parent="CCB1oD5Kg9g0gcerTAnL-3">
+          <mxGeometry x="823" y="640" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-33" value="&lt;font color=&quot;#ff3333&quot;&gt;You don&#39;t need to run generate_sql_Table.py. In this case, sonova_sql_table.csv is provided as you don&#39;t have permission to access MS SQL&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;fontColor=#EA6B66;" vertex="1" parent="CCB1oD5Kg9g0gcerTAnL-3">
+          <mxGeometry x="230" y="410" width="570" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF3333;" edge="1" parent="CCB1oD5Kg9g0gcerTAnL-3" source="CCB1oD5Kg9g0gcerTAnL-35" target="CCB1oD5Kg9g0gcerTAnL-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-35" value="sonova_hr_table.py&lt;br&gt;sonova_joint_table.csv&lt;br&gt;sonova_joint_table_group.csv&lt;br&gt;Copied from&amp;nbsp;&lt;br&gt;&lt;span style=&quot;color: rgb(255 , 51 , 51) ; font-weight: 700&quot;&gt;https://git.sonova.com/57lzhang/cosinuss&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="CCB1oD5Kg9g0gcerTAnL-3">
+          <mxGeometry x="8" y="600" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-36" value="Dashboard" style="shape=tape;whiteSpace=wrap;html=1;rounded=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="CCB1oD5Kg9g0gcerTAnL-3">
+          <mxGeometry x="563" y="615" width="157" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CCB1oD5Kg9g0gcerTAnL-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF3333;" edge="1" parent="CCB1oD5Kg9g0gcerTAnL-3" source="CCB1oD5Kg9g0gcerTAnL-29" target="CCB1oD5Kg9g0gcerTAnL-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
